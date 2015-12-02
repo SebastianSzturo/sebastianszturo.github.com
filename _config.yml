@@ -1,11 +1,12 @@
 name: Sebastian Szturo
-description: Full Stack Rocket Scientist
-meta_description: "Full Stack Rocket Scientist"
+description: Full Stack Software Engineer
+meta_description: "Full Stack Engineer with passion for building beautiful things."
 
 aboutPage: true
 
 markdown: redcarpet
 highlighter: pygments
+gems: [jekyll-paginate]
 
 paginate: 20
 baseurl: /

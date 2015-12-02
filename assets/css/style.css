@@ -623,6 +623,20 @@ h2.month {
   margin-left: 2px;
 }
 
+.freelance {
+	background-color: #2A3033;
+	color: white;
+	padding: 15px;
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 20px;
+	font-size: 15px;
+}
+
+.freelance a {
+	color: #7CB65E;
+}
+
 /* Media Queries */
 @media screen and (max-width: 540px) {
 	#wrapper { padding:20px 20px 20px 20px;}
