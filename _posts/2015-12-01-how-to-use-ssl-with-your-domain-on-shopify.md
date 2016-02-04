@@ -8,7 +8,7 @@ description: Shopify is a great platform to kickstart your startup...
 
 --
 
-[Shopify](https://www.shopify.com/?ref=sebastian-szturo) is a great platform to start your online business with or to host a shop for your [multi million dollar business](http://shop.teslamotors.com/). With over 200,000 active stores, it's one of the biggest players in the market. There is just one disadvantage: You can't get a SSL certificate unless you use their enterprise level [Shopify Plus](https://www.shopify.com/plus/?ref=sebastian-szturo) plan for ~$995 a month.
+[Shopify](https://www.shopify.com/?ref=sebastian-szturo) is a great platform to start your online business with or to host a shop for your [multi million dollar business](http://shop.teslamotors.com/). With over 200,000 active stores, it's one of the biggest players in the market. There is just one disadvantage: You can't get a SSL certificate unless you use their enterprise level [Shopify Plus](https://www.shopify.com/plus/?ref=sebastian-szturo) plan.
 
 ### Why do I need a SSL certificate?
 
