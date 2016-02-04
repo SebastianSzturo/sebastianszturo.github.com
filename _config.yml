@@ -5,7 +5,7 @@ meta_description: "Full Stack Engineer with passion for building beautiful thing
 aboutPage: true
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 gems: [jekyll-paginate]
 
 paginate: 20
