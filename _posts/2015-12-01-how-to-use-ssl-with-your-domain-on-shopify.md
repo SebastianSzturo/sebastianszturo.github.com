@@ -4,6 +4,10 @@ date:   2015-12-01 13:37
 description: Shopify is a great platform to kickstart your startup...
 ---
 
+**Update:** Thanks to the [Let's Encrypt](https://letsencrypt.org/) project Shopify just released SSL encryption for all shopify stores for free. [Check out their blog post for more details.](https://www.shopify.com/blog/73511365-all-shopify-stores-now-use-ssl-encryption-everywhere)
+
+--
+
 [Shopify](https://www.shopify.com/?ref=sebastian-szturo) is a great platform to start your online business with or to host a shop for your [multi million dollar business](http://shop.teslamotors.com/). With over 200,000 active stores, it's one of the biggest players in the market. There is just one disadvantage: You can't get a SSL certificate unless you use their enterprise level [Shopify Plus](https://www.shopify.com/plus/?ref=sebastian-szturo) plan for ~$995 a month.
 
 ### Why do I need a SSL certificate?
