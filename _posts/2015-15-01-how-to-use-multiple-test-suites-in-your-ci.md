@@ -1,7 +1,7 @@
 ---
 title:  "Managing multiple Test Suites in your CI"
 date:   2016-01-15 13:37
-description: Shopify is a great platform to kickstart your startup...
+description: Sometimes you are forced to use multiple test...
 ---
 
 Sometimes you are forced to use multiple test suites in one project. Travis and CircleCI are usually
